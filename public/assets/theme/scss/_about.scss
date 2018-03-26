@@ -1,5 +1,6 @@
 .about {
 	min-height: 100vh;
+	
 
 	&-content {
 		@extend %box;
@@ -24,7 +25,8 @@
 	}
 
 	&-image {
-		background: url(../../img/about-image.jpg) no-repeat bottom center / cover;
+		background: url(../../img/about-image4.jpg) no-repeat bottom center / cover;
+		background-color: white;
 		padding: $padding-medium;
 		text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
 		width: 100%;

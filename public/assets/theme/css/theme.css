@@ -4611,7 +4611,7 @@ a.socialIcon:hover, .socialHoverClass {
   /* Indicators images style */
   /* Indicators active image style */ }
   .portfolio-row {
-    background: #eaeaea;
+    background: white;
     min-height: 100vh;
     position: relative;
     float: left;
@@ -5274,7 +5274,7 @@ select.bs-select-hidden, select.selectpicker {
 .about {
   min-height: 100vh; }
   .about-content {
-    background: #fff;
+    background: white;
     padding: 0;
     margin: 0; }
   .about-box {
@@ -5287,7 +5287,7 @@ select.bs-select-hidden, select.selectpicker {
   .about p {
     line-height: 2; }
   .about-image {
-    background: url(../../img/about-image.jpg) no-repeat bottom center/cover;
+    background: url(../../img/about-image4.jpg) no-repeat bottom center/cover;
     padding: 30px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
     width: 100%;
